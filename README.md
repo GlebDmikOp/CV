@@ -1,2 +1,2 @@
 # CV
-My first project on YTML and CSS
+My first project on HTML and CSS
